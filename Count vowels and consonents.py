@@ -9,5 +9,6 @@ for ch in s:
         else:
             consonants += 1
 
-print("Vowels:", vowels) 
+print("Vowels:", vowels)
+
 print("Consonants:", consonants) 
