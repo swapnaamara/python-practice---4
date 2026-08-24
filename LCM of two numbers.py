@@ -3,6 +3,7 @@ b = int(input("second number: "))
 
 x = a
 y = b
+
 while y!= 0:
     temp = y
     y = x % y
