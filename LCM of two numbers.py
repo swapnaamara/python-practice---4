@@ -11,4 +11,5 @@ while y!= 0:
 
 gcd = x
 lcm = (a * b) // gcd
+
 print(lcm) 
