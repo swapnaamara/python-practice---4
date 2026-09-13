@@ -10,5 +10,4 @@ for ch in s:
             consonants += 1
 
 print("Vowels:", vowels)
-
 print("Consonants:", consonants) 
