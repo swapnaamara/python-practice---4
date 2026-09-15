@@ -6,6 +6,7 @@ y = b
 
 while y!= 0:
     temp = y
+    
     y = x % y
     x = temp
 
