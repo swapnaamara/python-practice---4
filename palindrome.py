@@ -1,4 +1,5 @@
 n = int(input("Enter a number: ")) 
+
 original = n
 r = 0
 
